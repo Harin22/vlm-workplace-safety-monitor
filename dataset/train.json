@@ -1,0 +1,32 @@
+[
+  {
+    "image": "images/height_001.png",
+    "question": "Is the worker in a potentially unsafe situation?",
+    "answer": "SAFE. The worker is working at ground level and no immediate height-related hazard is visible."
+  },
+  {
+    "image": "images/height_002.png",
+    "question": "Is the worker in a potentially unsafe situation?",
+    "answer": "DANGER. The worker is working at height on an elevated structure, creating a potential fall hazard."
+  },
+  {
+    "image": "images/ppe_001.png",
+    "question": "Is the worker complying with site PPE requirements?",
+    "answer": "SAFE. The worker is wearing the required safety helmet and high-visibility vest."
+  },
+  {
+    "image": "images/ppe_002.png",
+    "question": "Is the worker complying with site PPE requirements?",
+    "answer": "WARNING. The worker has entered the construction area without the required safety helmet."
+  },
+  {
+    "image": "images/fall_001.png",
+    "question": "Is there a potential slip, trip, or fall hazard?",
+    "answer": "SAFE. The walking area is clear and no obvious slip, trip, or fall hazard is visible."
+  },
+  {
+    "image": "images/fall_002.png",
+    "question": "Is there a potential slip, trip, or fall hazard?",
+    "answer": "WARNING. Construction debris is obstructing the walking path and creates a potential trip hazard."
+  }
+]
