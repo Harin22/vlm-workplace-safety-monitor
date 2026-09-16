@@ -28,5 +28,205 @@
     "image": "images/fall_002.png",
     "question": "Is there a potential slip, trip, or fall hazard?",
     "answer": "WARNING. Construction debris is obstructing the walking path and creates a potential trip hazard."
+  },
+  {
+    "image": "images/height_003.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. The worker is climbing a ladder toward an elevated work area, creating a potential height-related fall hazard."
+  },
+  {
+    "image": "images/height_004.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is working at height near an exposed edge without visible fall protection, creating a serious fall hazard."
+  },
+  {
+    "image": "images/ppe_003.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. The worker is entering the construction area without visible protective safety footwear."
+  },
+  {
+    "image": "images/ppe_004.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is entering an active construction area without a safety helmet or high-visibility vest."
+  },
+  {
+    "image": "images/fall_003.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. A cable is lying across the walking path and creates a potential trip hazard."
+  },
+  {
+    "image": "images/fall_004.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is losing balance after stepping onto construction debris, creating an immediate fall hazard."
+  },
+  {
+    "image": "images/height_005.png",
+    "question": "Is the worker working safely with respect to height?",
+    "answer": "SAFE. The workers are performing normal activities at ground level and no immediate height-related hazard is visible."
+  },
+  {
+    "image": "images/height_006.png",
+    "question": "Is the worker working safely with respect to height?",
+    "answer": "DANGER. The worker is standing near an unprotected elevated edge approximately 3 meters above the ground without visible fall protection."
+  },
+  {
+    "image": "images/ppe_005.png",
+    "question": "Is the worker properly equipped to enter the construction site?",
+    "answer": "DANGER. The worker is entering an active construction area without a safety helmet or high-visibility vest."
+  },
+  {
+    "image": "images/ppe_006.png",
+    "question": "Is the worker properly equipped to enter the construction site?",
+    "answer": "SAFE. The worker is wearing a safety helmet and high-visibility vest while entering the construction area."
+  },
+  {
+    "image": "images/fall_005.png",
+    "question": "Is the worker exposed to a slip, trip, or fall hazard?",
+    "answer": "SAFE. The pedestrian pathway is clear and unobstructed, with no obvious slip, trip, or fall hazard visible."
+  },
+  {
+    "image": "images/fall_006.png",
+    "question": "Is the worker exposed to a slip, trip, or fall hazard?",
+    "answer": "DANGER. The worker is falling after tripping over construction debris obstructing the pedestrian pathway."
+  },
+  {
+    "image": "images/ppe_007.png",
+    "question": "Is the worker properly equipped to enter the construction site?",
+    "answer": "SAFE. The worker is wearing a safety helmet, high-visibility vest and appropriate protective footwear."
+  },
+  {
+    "image": "images/ppe_008.png",
+    "question": "Is the worker complying with site PPE requirements?",
+    "answer": "SAFE. The workers are wearing visible safety helmets, high-visibility vests and safety footwear."
+  },
+  {
+    "image": "images/ppe_009.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "SAFE. The worker is wearing the required visible protective equipment while working on site."
+  },
+  {
+    "image": "images/ppe_010.png",
+    "question": "Is the worker properly equipped?",
+    "answer": "SAFE. The worker is wearing appropriate visible PPE before entering the active construction area."
+  },
+  {
+    "image": "images/ppe_011.png",
+    "question": "Are the workers complying with PPE requirements?",
+    "answer": "SAFE. The workers are visibly wearing appropriate safety helmets and high-visibility vests."
+  },
+  {
+    "image": "images/ppe_012.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. The worker is entering the construction area without a visible safety helmet."
+  },
+  {
+    "image": "images/ppe_013.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. The worker is entering the construction area without visible protective safety footwear."
+  },
+  {
+    "image": "images/ppe_014.png",
+    "question": "Is the worker complying with site PPE requirements?",
+    "answer": "WARNING. The worker is wearing a safety helmet but does not have a visible high-visibility vest."
+  },
+  {
+    "image": "images/ppe_015.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. The worker is entering the work area without visible protective footwear."
+  },
+  {
+    "image": "images/ppe_016.png",
+    "question": "Is the worker complying with site PPE requirements?",
+    "answer": "WARNING. The worker is wearing a safety helmet and safety boots but does not have a visible high-visibility vest."
+  },
+  {
+    "image": "images/ppe_017.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is entering an active construction area without a safety helmet, high-visibility vest or visible protective footwear."
+  },
+  {
+    "image": "images/ppe_018.png",
+    "question": "Is the worker complying with site PPE requirements?",
+    "answer": "DANGER. The worker is entering an active construction zone without essential visible PPE while heavy construction activity is nearby."
+  },
+  {
+    "image": "images/ppe_019.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is entering an active work area without a safety helmet, high-visibility vest or visible protective footwear."
+  },
+  {
+    "image": "images/ppe_020.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is entering an active construction area without essential visible PPE while heavy machinery operates nearby."
+  },
+  {
+    "image": "images/fall_007.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "SAFE. The pedestrian pathway is clear and unobstructed with no obvious slip, trip or fall hazard."
+  },
+  {
+    "image": "images/fall_008.png",
+    "question": "Is the worker exposed to a trip hazard?",
+    "answer": "SAFE. The workers are walking on a clear pedestrian path separated from construction materials."
+  },
+  {
+    "image": "images/fall_009.png",
+    "question": "Is there a potential slip, trip, or fall hazard?",
+    "answer": "SAFE. The walking route is clear and there are no obvious obstacles underfoot."
+  },
+  {
+    "image": "images/fall_010.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "SAFE. The worker is walking normally along a clear pedestrian route without an obvious fall hazard."
+  },
+  {
+    "image": "images/fall_011.png",
+    "question": "Is the worker exposed to a slip, trip, or fall hazard?",
+    "answer": "SAFE. The designated pedestrian corridor is clear and separated from construction materials."
+  },
+  {
+    "image": "images/fall_012.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. Construction materials are partially obstructing the pedestrian pathway and create a potential trip hazard."
+  },
+  {
+    "image": "images/fall_013.png",
+    "question": "Is there a potential trip hazard?",
+    "answer": "WARNING. A loose cable crosses part of the pedestrian pathway and creates a potential trip hazard."
+  },
+  {
+    "image": "images/fall_014.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. Scattered construction materials and loose tools near the walking path create a potential trip hazard."
+  },
+  {
+    "image": "images/fall_015.png",
+    "question": "Is there a potential slip, trip, or fall hazard?",
+    "answer": "WARNING. The walking area contains uneven flooring and loose debris that could cause a trip."
+  },
+  {
+    "image": "images/fall_016.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "WARNING. A long wooden board extends across the pedestrian route and creates a potential trip hazard."
+  },
+  {
+    "image": "images/fall_017.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is falling after tripping over a cable stretched across the pedestrian pathway."
+  },
+  {
+    "image": "images/fall_018.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is falling after stepping onto loose wooden boards scattered across the walking path."
+  },
+  {
+    "image": "images/fall_019.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker has fallen after tripping over construction debris and loose tools blocking the pedestrian route."
+  },
+  {
+    "image": "images/fall_020.png",
+    "question": "What is the safety state of the worker?",
+    "answer": "DANGER. The worker is losing balance on a large uneven pile of construction debris and is at immediate risk of falling."
   }
 ]
