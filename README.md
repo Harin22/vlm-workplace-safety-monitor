@@ -38,8 +38,7 @@ Annotated output video + JSON log
 
 ## Demo
 
-<!-- Add a screenshot or GIF of output/<your_video>_safety.mp4 here, e.g.
-![Demo](assets/demo.png) -->
+<img width="1852" height="975" alt="image" src="https://github.com/user-attachments/assets/9abd6e4a-8f36-4d87-bc6e-85f5c57a6470" />
 
 ---
 
