@@ -39,7 +39,7 @@ Annotated output video + JSON log
 ## Demo
 
 <img width="1852" height="975" alt="image" src="https://github.com/user-attachments/assets/9abd6e4a-8f36-4d87-bc6e-85f5c57a6470" />
-
+*Example frame from the annotated output video. The fine-tuned SmolVLM updates the SAFE / WARNING / DANGER banner every 2 seconds.*
 ---
 
 ## Quick start
